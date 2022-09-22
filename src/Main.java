@@ -2,7 +2,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        int age = 18;
+        int age = 25;
 
         System.out.println("Please enter your age");
 
